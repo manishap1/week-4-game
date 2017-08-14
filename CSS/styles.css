@@ -1,0 +1,37 @@
+.text{
+	text-align: center;
+	background: rgba(0, 0, 56, 0.68);
+	color:white;
+}
+
+.text1{
+	text-align: center;
+	background: rgba(0, 0, 56, 0.18);
+	padding-top: 10px;
+}
+.text2{
+	text-align: :center;
+	background: rgba(25, 25, 30, 0.6);
+	color: white;
+	padding-top: 5px;
+}
+
+.b1{
+	text-align: center;
+	background: rgba(130, 187, 108, 0.76);
+	height: 150px;
+	font-size: 40px;
+
+}
+.b2{
+	text-align: center;
+	background: rgba(51, 228, 225, 0.76) ;
+	height: 150px;
+	font-size: 40px;
+}
+.b3{
+	text-align: center;
+	background:rgba(228, 178, 51, 0.76) ;
+	height: 150px;
+	font-size: 40px;
+}
